@@ -11,6 +11,7 @@
   <modules>
     <module>demo-provider-payment8001</module>
     <module>demo-consumer-order80</module>
+    <module>demo-api-commons</module>
   </modules>
 
 
